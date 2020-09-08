@@ -1,0 +1,2 @@
+body,html{margin:0;padding:0}@-webkit-keyframes rotate{0%{transform:rotate(-1turn)}}@keyframes rotate{0%{transform:rotate(-1turn)}}.spinner{height:50px;width:50px;border:5px solid #f0f0f0;border-top-color:#444;border-radius:50%;display:flex;justify-content:center;align-items:center;overflow:none;-webkit-animation:rotate 1s ease-in-out 30s infinite both running;animation:rotate 1s ease-in-out 30s infinite both running}.spinner-inner{height:40px;width:40px;background:#fff;border-radius:50%}
+/*# sourceMappingURL=main.f4fef0e2.chunk.css.map */
